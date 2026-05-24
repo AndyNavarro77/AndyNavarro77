@@ -1,4 +1,4 @@
-# Andrés Navarro — Data Analyst & ML Engineer
+# Andrés Navarro — Data Analyst · Business Intelligence · ML & AI
 
 **Turning data into business decisions that drive revenue growth, cost reduction and process optimization.**
 
@@ -33,6 +33,7 @@ I don't just analyze data. I identify opportunities, quantify their value in dol
 - **End-to-end** — from raw data to production-ready pipelines, dashboards and ML models
 - **Honest results** — I document limitations, tradeoffs and assumptions — not just metrics
 - **Stakeholder-ready** — technical depth + clear communication for non-technical audiences
+- **AI-augmented analysis** — integrating generative AI and automation tools to accelerate insights and build smarter data workflows
 
 ---
 
@@ -41,7 +42,7 @@ I don't just analyze data. I identify opportunities, quantify their value in dol
 **ML & Analytics:** Python · scikit-learn · XGBoost · Prophet · SciPy · statsmodels · A/B Testing  
 **Data & SQL:** SQL · MySQL · SQL Server · BigQuery · GCP · ETL · SSIS  
 **Visualization:** Power BI (DAX) · Tableau · Looker · LookML  
-**Dev & Cloud:** Git · GitHub · GCP · n8n · SQLAlchemy · FastAPI  
+**Dev & Cloud:** Git · GitHub · GCP · n8n automation· SQLAlchemy · FastAPI · Generative AI
 
 ---
 
