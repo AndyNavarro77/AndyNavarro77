@@ -2,7 +2,7 @@
 
 **Turning data into business decisions that drive revenue growth, cost reduction and process optimization.**
 
-📍 Buenos Aires, Argentina &nbsp;|&nbsp; 🌐 Open to remote opportunities (LATAM & US)
+📍 Buenos Aires, Argentina &nbsp;|&nbsp; 🌐 Open to remote opportunities.
 
 ---
 
