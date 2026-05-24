@@ -56,7 +56,7 @@ I don't just analyze data. I identify opportunities, quantify their value in dol
 
 If you're looking for someone who connects data with business strategy and delivers results that show up on the bottom line — let's connect.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-andres--navarro--portafolio.netlify.app-orange?logo=netlify)](https://andres-navarro-portafolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-andres--navarro--portfolio.netlify.app-orange?logo=netlify)](https://andres-navarro-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés%20Navarro-blue?logo=linkedin)](https://www.linkedin.com/in/andrés-navarro77/)
 [![Email](https://img.shields.io/badge/Email-andresnavarroalvarez15%40gmail.com-red?logo=gmail)](mailto:andresnavarroalvarez15@gmail.com)
 
