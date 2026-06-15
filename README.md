@@ -48,6 +48,7 @@ I don't just analyze data. I identify opportunities, quantify their value in dol
 
 ## Certifications
 
+- 🏅 Supervised Machine Learning: Regression and Classification - DeepLearning.AI & Stanford University / Coursera (2026) 
 - 🏅 Google Cloud Data Analytics Certificate — Google / Coursera (2026)
 - 🏅 Google Data Analytics Professional Certificate — Google / Coursera (2026)
 
